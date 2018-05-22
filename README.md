@@ -1,11 +1,15 @@
 # Treinamento
 
-## Instalação
+## Pre requisitos
+1. GIT
+1. VSCODE
+1. CONTA NO GITHUB
+1. NODEJS (https://nodejs.org/en/download/)
 
 
 ## Etapas:
-Abra essa pasta com o visual studio code (vscode)
-
+### 01
+1. Abra essa pasta com o visual studio code (vscode)
 1. Hello World
 1. Crie um pasta 01
 1. Crie um arquivo index.js
