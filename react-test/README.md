@@ -1,4 +1,4 @@
-# ReactJS Challenge
+# ReactJS Test
 
 Your will create an web charity aplication for non governmental organizations. 
 Your aplication should run at web browsers like Firefox, chrome...
